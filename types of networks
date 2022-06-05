@@ -1,0 +1,92 @@
+******************************************************************************Types of Networks***************************************************************************
+
+1. Division based on the communication medium -->>>
+
+                               1).Wired Network:--->>>>
+                                                    As we all know, “wired” refers to any physical medium made up of cables.
+                                                    Copper wire, twisted pair, or fiber optic cables are all options. 
+                                                    A wired network employs wires to link devices to the Internet or another network, 
+                                                    such as laptops or desktop PCs.
+
+
+                               2).Wireless Network:--->>>>                                                    
+                                                    “Wireless” means without wire, media that is made up of electromagnetic waves (EM Waves) or infrared waves.
+                                                    Antennas or sensors will be present on all wireless devices. 
+                                                    Cellular phones, wireless sensors, TV remotes, satellite disc receivers, 
+                                                    and laptops with WLAN cards are all examples of wireless devices. 
+                                                    For data or voice communication, a wireless network uses radio frequency waves rather than wires.
+
+
+
+2. Division based on area covered -->>>
+
+                               1).Local Area Network (LAN):--->>>>
+                                                    A LAN is a network that covers an area of around 10 kilometers. 
+                                                    For example, a college network or an office network.
+                                
+                                
+                               2).Metropolitan Area Network (MAN):--->>>> 
+                                                    MAN refers to a network that covers an entire city.
+                                                    For example : consider the cable television network.
+                                
+                                
+                               3).Wide Area Network (WAN):--->>>>
+                                                    WAN refers to a network that connects countries or continents. 
+                                                    For example, the Internet allows users to access a distributed system called www from anywhere in the globe.
+                                                    
+                                                    
+                               4).personal area network (PAN):--->>>>
+                                                    A personal area network (PAN) connects electronic devices within a user's immediate area. 
+                                                    The size of a PAN ranges from a few centimeters to a few meters. 
+                                                    One of the most common real-world examples of a PAN is the connection between a Bluetooth earpiece and a smartphone.
+                                                    
+                                                    
+                               5).Storage area network (SAN):--->>>>                   
+                                                    The main aim of SAN is to transfer the data between the server and storage device.
+                                                    It also allows for transferring the data between the storage systems. 
+                                        
+                               6). Campus area network (CAN):--->>>>          
+                                                    Campus Area Network is network of interconnected Local Area Networks where these LANs are connected 
+                                                    via Switches and routers and create a single network like CAN. 
+                                                    Campus Area Network covers areas of around 1 to 5 km range and it can be both wired or wireless connectivity.
+                                
+                                
+3. Based on types of communication -->>>
+
+                              1).Point To Point networks:--->>>>
+                                                    Point-to-Point networking is a type of data networking that establishes a direct link between two networking nodes.
+                                                    A direct link between two devices, such as a computer and a printer, is known as a point-to-point connection.
+
+                              2).Broadcast networks:--->>>>  
+                                                    In broadcast networks, a signal method in which numerous parties can hear a single sender. 
+                                                    Radio stations are an excellent illustration of the “Broadcast Network” in everyday life. 
+                                                    The radio station is a sender of data/signal in this scenario, and data is only intended to travel in one direction.
+                                                    Away from the radio transmission tower, to be precise.
+
+4. Based on type of architecture -->>>
+
+                              1).P2P Networks:--->>>> 
+                                                    Computers with similar capabilities and configurations are referred to as peers.
+                                                    “Peer to Peer” is the abbreviation for “peer to peer.” 
+                                                    The “peers” in a peer-to-peer network are computer systems that are connected to each other over the Internet.
+                                                    Without the use of a central server, files can be shared directly between systems on the network.
+                              
+                              
+                              2).Client – Server Networks:--->>>>
+                                                    Each computer or process on the network is either a client or a server in a client-server architecture (client/server).
+                                                    The client asks services from the server, which the server provides. 
+                                                    Servers are high-performance computers or processes that manage disc drives (file servers), 
+                                                    printers (print servers), or network traffic (network servers).
+                                                    
+                                                    
+                             3).Hybrid Networks:--->>>> 
+                                                    The hybrid model refers to a network that uses a combination of client-server and peer-to-peer architecture. 
+                                                    Eg: Torrent.
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
