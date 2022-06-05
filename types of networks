@@ -1,5 +1,6 @@
 ******************************************************************************Types of Networks***************************************************************************
 
+
 1. Division based on the communication medium -->>>
 
                                1).Wired Network:--->>>>
@@ -18,11 +19,13 @@
 
 
 
+
 2. Division based on area covered -->>>
 
                                1).Local Area Network (LAN):--->>>>
                                                     A LAN is a network that covers an area of around 10 kilometers. 
                                                     For example, a college network or an office network.
+                                                    advantage : speed , security , cost , resource sharing.
                                 
                                 
                                2).Metropolitan Area Network (MAN):--->>>> 
@@ -35,7 +38,7 @@
                                                     For example, the Internet allows users to access a distributed system called www from anywhere in the globe.
                                                     
                                                     
-                               4).personal area network (PAN):--->>>>
+                               4).Personal area network (PAN):--->>>>
                                                     A personal area network (PAN) connects electronic devices within a user's immediate area. 
                                                     The size of a PAN ranges from a few centimeters to a few meters. 
                                                     One of the most common real-world examples of a PAN is the connection between a Bluetooth earpiece and a smartphone.
@@ -45,10 +48,32 @@
                                                     The main aim of SAN is to transfer the data between the server and storage device.
                                                     It also allows for transferring the data between the storage systems. 
                                         
+                                        
                                6). Campus area network (CAN):--->>>>          
                                                     Campus Area Network is network of interconnected Local Area Networks where these LANs are connected 
                                                     via Switches and routers and create a single network like CAN. 
                                                     Campus Area Network covers areas of around 1 to 5 km range and it can be both wired or wireless connectivity.
+                                                    
+                                                    
+                              7). Body area network (BAN):--->>>>
+                                                    A BAN, or body area network, is an area connected through extremely 
+                                                    low-range wireless communication, all within the vicinity of the human body. 
+                                                    Devices connected to a BAN could include smartwatches, surgically implanted medical devices, and fitness armbands.
+
+
+                              8).Near-me Network(NAN):--->>>>
+                                                    An informal type of network, a NAN is a near-me network, or a network of devices informally connected by their proximity to one another.
+                                                    An example of this could be a business meeting in which various colleagues are sitting at the same conference table, sharing files to one another’s devices.
+                                                    They could all be connected to the Internet through different means – cellular, WiFi,
+                                                    or wired connection – but they are a part of the same informal network because they are sharing resources with one another.
+                              
+                              
+                              9).Home area network (HAN):--->>>>
+                                                    A HAN, or home area network, is a network connecting devices within a home. These networks are a type of LAN. 
+                                                    All the devices inside the household, including computers, smartphones, game consoles, televisions, 
+                                                    and home assistants that are connected to the router are a part of the HAN.
+                                
+                                
                                 
                                 
 3. Based on types of communication -->>>
@@ -62,6 +87,9 @@
                                                     Radio stations are an excellent illustration of the “Broadcast Network” in everyday life. 
                                                     The radio station is a sender of data/signal in this scenario, and data is only intended to travel in one direction.
                                                     Away from the radio transmission tower, to be precise.
+
+
+
 
 4. Based on type of architecture -->>>
 
